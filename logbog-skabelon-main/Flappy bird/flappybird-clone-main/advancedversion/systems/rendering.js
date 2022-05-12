@@ -1,4 +1,0 @@
-class Rendering extends System {
-    
-
-}
